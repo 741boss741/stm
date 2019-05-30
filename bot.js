@@ -113,4 +113,4 @@ if (message.content.startsWith(adminprefix + 'avatar')) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTgyMjQwMzE2NTE4ODI2MDA0.XOq7mQ.4-EN5qw1_8uwe_h5fDyUFCtAa6w");
