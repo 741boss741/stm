@@ -34,14 +34,14 @@ client.on('ready', () => {
 const adminprefix = "!";
 const developers = ['493103326179622933'];
 
-console.log("FOIL");
+console.log("elbop");
 
 client.on('ready', () => {
     console.log(`Logged as ${client.user.tag}`)
 })
 
 
-client.on('message', message => {//// حقوق @! FOIL 
+client.on('message', message => {//// حقوق @! elbop
     var argresult = message.content.split(` `).slice(1).join(' ');
       if (!developers.includes(message.author.id)) return;
       
