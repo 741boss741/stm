@@ -11,7 +11,7 @@ const prefix = '!';
 client.on('ready', () => {
 
   
-    console.log(`Logged in as [ FOIL]`);
+    console.log(`Logged in as [ elbop]`);
 
 });
 
