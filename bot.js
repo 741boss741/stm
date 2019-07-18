@@ -113,4 +113,4 @@ if (message.content.startsWith(adminprefix + 'avatar')) {
 
 
 
-client.login("NTAyNTEwNzQwOTMwODIyMTU0.XSTV3Q.hf7reKPMVJy7EG-1wRyUPRiDF0g");
+client.login("NDkzMTAzMzI2MTc5NjIyOTMz.XSkLWg.we0ccAqbIMKfroPvmwQK8WaF4Lk");
