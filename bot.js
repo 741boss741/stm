@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "!";
-const developers = ['502510740930822154'];
+const developers = ['493103326179622933'];
 
 console.log("elbop");
 
