@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "#";
-const developers = ['493103326179622933'];
+const developers = ['510932587808686081'];
 
 console.log("elbop");
 
@@ -113,4 +113,4 @@ if (message.content.startsWith(adminprefix + 'avatar')) {
 
 
 
-client.login("mfa.yJW0GMf-aOODP47hDXVRRQ-rq77o8n40KBCXYrHYL1xMAZA8VvThEQFCBXHMuEXvfFw18zFp9y510qmCfI9c");
+client.login("NTEwOTMyNTg3ODA4Njg2MDgx.XUw0Uw.uwr1zbrqQSLQZqpC3UijWlvhW58");
